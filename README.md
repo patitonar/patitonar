@@ -7,6 +7,12 @@
 
 ## Security Researcher
 
+Profiles
+- [Cantina](https://cantina.xyz/u/patitonar)
+- [Sherlock](https://audits.sherlock.xyz/watson/patitonar)
+- [Code4rena](https://code4rena.com/@patitonar)
+- [CodeHawks](https://profiles.cyfrin.io/u/patitonar)
+
 Total Issues Found:
 - 🔴 14 High
 - 🟠 14 Medium
