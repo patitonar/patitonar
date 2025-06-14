@@ -13,9 +13,9 @@ Profiles
 - [Code4rena](https://code4rena.com/@patitonar)
 - [CodeHawks](https://profiles.cyfrin.io/u/patitonar)
 
-Total Issues Found:
-- 🔴 14 High
-- 🟠 14 Medium
+Total Issues Found in Public contests:
+- 🔴 28 High
+- 🟠 28 Medium
 
 ### Top Public Competitions
 
