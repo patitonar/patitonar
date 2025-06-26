@@ -34,8 +34,16 @@ Total Issues Found in Public contests:
 |Cantina|Daao / daao-contracts|January 2025|[34](https://cantina.xyz/competitions/bd43bdd1-bc7f-473b-96c0-d35d37f3db33/leaderboard)|
 |Cantina|BadgerDAO / badger-ebtc-bsm|March 2025|[41](https://cantina.xyz/competitions/f57ffb47-0ded-4f04-bcec-ecd7d47fad58/leaderboard)|
 
+### Private Audits
+
+Light Audit:
+
+- Wormhole NTT (2024)
+- Metastreet (2021)
+- Aelin (2021)
+
 ## Solidity Developer
 
-- 3 years at BootNode
+- 3 years at [BootNode](https://www.bootnode.dev/)
 - 3 years at Protofire
 - Contributed to 15+ projects including Infinex, Aave, Nexus Mutual, Everclear, Paraswap, Gnosis Chain, among others
