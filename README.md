@@ -13,9 +13,10 @@ Profiles
 - [Code4rena](https://code4rena.com/@patitonar)
 - [CodeHawks](https://profiles.cyfrin.io/u/patitonar)
 
-Total Issues Found in Public contests:
-- 🔴 28 High
-- 🟠 28 Medium
+Public contests stats:
+- 🕵️‍♂️ 20+ Protocols secured
+- 🔴 36 High
+- 🟠 26 Medium
 
 ### Top Public Competitions
 
@@ -24,6 +25,7 @@ Total Issues Found in Public contests:
 |Sherlock|Crestal Network|March 2025|[🥉](https://audits.sherlock.xyz/contests/755/leaderboard)|
 |Code4rena|Next Generation|February 2025|[5](https://code4rena.com/audits/2025-01-next-generation)|
 |Code4rena|bveCVX by BadgerDAO|September 2021|[7](https://code4rena.com/audits/2021-09-bvecvx-by-badgerdao-contest)|
+|Sherlock|Lend|June 2025|[10](https://audits.sherlock.xyz/contests/908)|
 |Code4rena|Sherlock|July 2021|[10](https://code4rena.com/audits/2021-07-sherlock-contest)|
 |Code4rena|Gravity Bridge|September 2021|[11](https://code4rena.com/audits/2021-08-gravity-bridge-contest)|
 |Code4rena|Float Capital|August 2021|[15](https://code4rena.com/audits/2021-08-float-capital-contest)|
