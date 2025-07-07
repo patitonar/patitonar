@@ -15,8 +15,8 @@ Profiles
 
 Public contests stats:
 - 🕵️‍♂️ 20+ Protocols secured
-- 🔴 36 High
-- 🟠 26 Medium
+- 🔴 38 High
+- 🟠 28 Medium
 
 ### Top Public Competitions
 
@@ -33,6 +33,7 @@ Public contests stats:
 |Code4rena|Forte: Float128 Solidity Library|April 2025|[23](https://code4rena.com/audits/2025-03-forte-float128-solidity-library)|
 |Sherlock|Yieldoor|February 2025|[27](https://audits.sherlock.xyz/contests/791/leaderboard)|
 |Code4rena|Ajna Protocol|May 2023|[27](https://code4rena.com/audits/2023-05-ajna-protocol)|
+|Sherlock|DODO Cross-Chain DEX|June 2025|[28](https://audits.sherlock.xyz/contests/991)|
 |Cantina|Daao / daao-contracts|January 2025|[34](https://cantina.xyz/competitions/bd43bdd1-bc7f-473b-96c0-d35d37f3db33/leaderboard)|
 |Cantina|BadgerDAO / badger-ebtc-bsm|March 2025|[41](https://cantina.xyz/competitions/f57ffb47-0ded-4f04-bcec-ecd7d47fad58/leaderboard)|
 
