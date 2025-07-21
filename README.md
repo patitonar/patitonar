@@ -15,8 +15,8 @@ Profiles
 
 Public contests stats:
 - 🕵️‍♂️ 20+ Protocols secured
-- 🔴 38 High
-- 🟠 28 Medium
+- 🔴 40 High
+- 🟠 30 Medium
 
 ### Top Public Competitions
 
@@ -28,6 +28,7 @@ Public contests stats:
 |Sherlock|Lend|June 2025|[10](https://audits.sherlock.xyz/contests/908)|
 |Code4rena|Sherlock|July 2021|[10](https://code4rena.com/audits/2021-07-sherlock-contest)|
 |Code4rena|Gravity Bridge|September 2021|[11](https://code4rena.com/audits/2021-08-gravity-bridge-contest)|
+|Cantina|Alchemix V3|May 2025|[12](https://cantina.xyz/competitions/e68909e6-3491-4a94-a707-ecf0c89cf72a/leaderboard)|
 |Code4rena|Float Capital|August 2021|[15](https://code4rena.com/audits/2021-08-float-capital-contest)|
 |Cantina|infiniFi / infinifi-protocol|April 2025|[19](https://cantina.xyz/competitions/2ac7f906-1661-47eb-bfd6-519f5db0d36b/leaderboard)|
 |Code4rena|Forte: Float128 Solidity Library|April 2025|[23](https://code4rena.com/audits/2025-03-forte-float128-solidity-library)|
