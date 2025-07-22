@@ -15,7 +15,7 @@ Profiles
 
 Public contests stats:
 - 🕵️‍♂️ 20+ Protocols secured
-- 🔴 40 High
+- 🔴 42 High
 - 🟠 30 Medium
 
 ### Top Public Competitions
