@@ -16,7 +16,7 @@ Profiles
 Public contests stats:
 - 🕵️‍♂️ 20+ Protocols secured
 - 🔴 42 High
-- 🟠 30 Medium
+- 🟠 32 Medium
 
 ### Top Public Competitions
 
@@ -26,6 +26,7 @@ Public contests stats:
 |Code4rena|Next Generation|February 2025|[5](https://code4rena.com/audits/2025-01-next-generation)|
 |Code4rena|bveCVX by BadgerDAO|September 2021|[7](https://code4rena.com/audits/2021-09-bvecvx-by-badgerdao-contest)|
 |Sherlock|Lend|June 2025|[10](https://audits.sherlock.xyz/contests/908)|
+|Sherlock|Symbiotic Relay|June 2025|[10](https://audits.sherlock.xyz/contests/967/leaderboard)|
 |Code4rena|Sherlock|July 2021|[10](https://code4rena.com/audits/2021-07-sherlock-contest)|
 |Code4rena|Gravity Bridge|September 2021|[11](https://code4rena.com/audits/2021-08-gravity-bridge-contest)|
 |Cantina|Alchemix V3|May 2025|[12](https://cantina.xyz/competitions/e68909e6-3491-4a94-a707-ecf0c89cf72a/leaderboard)|
