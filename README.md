@@ -1,5 +1,5 @@
 # Biography
-- 🕵️‍♂️ Started as independent Security Researcher in 2025
+- 🕵️‍♂️ Independent Security Researcher
 - 👷‍♂️ 5+ years as a Solidity developer
 - 👨‍💻 10+ years as a developer
 - 📖 Information Systems Engineer
@@ -15,10 +15,10 @@ Profiles
 
 Public contests stats:
 - 🕵️‍♂️ 20+ Protocols secured
-- 🔴 42 High
-- 🟠 32 Medium
+- 🔴 43 High
+- 🟠 34 Medium
 
-### Top Public Competitions
+### Top 10 Public Competitions
 
 |Platform|Competition|Date|Ranking|
 |--|------------|----|-------|
@@ -32,21 +32,21 @@ Public contests stats:
 |Cantina|Alchemix V3|May 2025|[12](https://cantina.xyz/competitions/e68909e6-3491-4a94-a707-ecf0c89cf72a/leaderboard)|
 |Sherlock|Notional Exponent|July 2025|[15](https://audits.sherlock.xyz/contests/1001/leaderboard)|
 |Code4rena|Float Capital|August 2021|[15](https://code4rena.com/audits/2021-08-float-capital-contest)|
-|Cantina|infiniFi / infinifi-protocol|April 2025|[19](https://cantina.xyz/competitions/2ac7f906-1661-47eb-bfd6-519f5db0d36b/leaderboard)|
-|Code4rena|Forte: Float128 Solidity Library|April 2025|[23](https://code4rena.com/audits/2025-03-forte-float128-solidity-library)|
-|Sherlock|Yieldoor|February 2025|[27](https://audits.sherlock.xyz/contests/791/leaderboard)|
-|Code4rena|Ajna Protocol|May 2023|[27](https://code4rena.com/audits/2023-05-ajna-protocol)|
-|Sherlock|DODO Cross-Chain DEX|June 2025|[28](https://audits.sherlock.xyz/contests/991)|
-|Cantina|Daao / daao-contracts|January 2025|[34](https://cantina.xyz/competitions/bd43bdd1-bc7f-473b-96c0-d35d37f3db33/leaderboard)|
-|Cantina|BadgerDAO / badger-ebtc-bsm|March 2025|[41](https://cantina.xyz/competitions/f57ffb47-0ded-4f04-bcec-ecd7d47fad58/leaderboard)|
 
 ### Private Audits
 
-Light Audit:
 
-- Wormhole NTT (2024)
-- Metastreet (2021)
-- Aelin (2021)
+|Protocol|Date|Platform|Report|
+|--|------------|----|-------|
+|Pruv Finance|September 2025|<img src="https://github.com/user-attachments/assets/b2f1283e-b952-4b40-ac7e-5b717c406fea" width=15 height=15> Hashlock|Private|
+|Hikari Finance|September 2025|<img src="https://github.com/user-attachments/assets/b2f1283e-b952-4b40-ac7e-5b717c406fea" width=15 height=15> Hashlock|Private|
+|Blockstreet|September 2025| <img src="https://github.com/user-attachments/assets/b2f1283e-b952-4b40-ac7e-5b717c406fea" width=15 height=15> Hashlock|[📄](https://hashlock.com/wp-content/uploads/2025/09/Blockstreet-2nd-Smart-Contract-Audit-Report-Final-Report-v1.pdf)|
+|Best in slot|August 2025|<img src="https://github.com/user-attachments/assets/b2f1283e-b952-4b40-ac7e-5b717c406fea" width=15 height=15> Hashlock|[📄](https://hashlock.com/wp-content/uploads/2025/09/Best-in-slot-Smart-Contract-Audit-Report-Final-Report-v3.pdf)|
+|LibraChain|August 2025|<img src="https://github.com/user-attachments/assets/b2f1283e-b952-4b40-ac7e-5b717c406fea" width=15 height=15> Hashlock|Private|
+|Wormhole NTT|December 2024|<img src="https://github.com/user-attachments/assets/09bdb386-3849-4895-af9a-75c8c5b5908a" width=15 height=15> BootNode|Private|
+|Metastreet|March 2022|<img src="https://github.com/user-attachments/assets/09bdb386-3849-4895-af9a-75c8c5b5908a" width=15 height=15> BootNode|Private|
+|Aelin|October 2021|<img src="https://github.com/user-attachments/assets/09bdb386-3849-4895-af9a-75c8c5b5908a" width=15 height=15> BootNode|Private|
+
 
 ## Solidity Developer
 
