@@ -38,7 +38,7 @@ Public contests stats:
 
 |Protocol|Date|Platform|Report|
 |--|------------|----|-------|
-|Spellborne|October 2025|<img src="https://github.com/user-attachments/assets/f93e487b-a9e7-4249-8256-e2e5b739c8e9" width=15 height=15> Shieldify|Private|
+|Spellborne|October 2025|<img src="https://github.com/user-attachments/assets/f93e487b-a9e7-4249-8256-e2e5b739c8e9" width=15 height=15> Shieldify|[📄](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Spellborne-Security-Review.pdf)|
 |Pruv Finance|October 2025|<img src="https://github.com/user-attachments/assets/b2f1283e-b952-4b40-ac7e-5b717c406fea" width=15 height=15> Hashlock|Private|
 |Pruv Finance|September 2025|<img src="https://github.com/user-attachments/assets/b2f1283e-b952-4b40-ac7e-5b717c406fea" width=15 height=15> Hashlock|Private|
 |Hikari Finance|September 2025|<img src="https://github.com/user-attachments/assets/b2f1283e-b952-4b40-ac7e-5b717c406fea" width=15 height=15> Hashlock|Private|
