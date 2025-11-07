@@ -20,18 +20,18 @@ Public contests stats:
 
 ### Top 10 Public Competitions
 
-|Platform|Competition|Date|Ranking|
-|--|------------|----|-------|
-|Sherlock|Crestal Network|March 2025|[🥉](https://audits.sherlock.xyz/contests/755/leaderboard)|
-|Code4rena|Next Generation|February 2025|[5](https://code4rena.com/audits/2025-01-next-generation)|
-|Code4rena|bveCVX by BadgerDAO|September 2021|[7](https://code4rena.com/audits/2021-09-bvecvx-by-badgerdao-contest)|
-|Sherlock|Lend|June 2025|[10](https://audits.sherlock.xyz/contests/908)|
-|Sherlock|Symbiotic Relay|June 2025|[10](https://audits.sherlock.xyz/contests/967/leaderboard)|
-|Code4rena|Sherlock|July 2021|[10](https://code4rena.com/audits/2021-07-sherlock-contest)|
-|Code4rena|Gravity Bridge|September 2021|[11](https://code4rena.com/audits/2021-08-gravity-bridge-contest)|
-|Cantina|Alchemix V3|May 2025|[12](https://cantina.xyz/competitions/e68909e6-3491-4a94-a707-ecf0c89cf72a/leaderboard)|
-|Sherlock|Notional Exponent|July 2025|[15](https://audits.sherlock.xyz/contests/1001/leaderboard)|
-|Code4rena|Float Capital|August 2021|[15](https://code4rena.com/audits/2021-08-float-capital-contest)|
+|Platform|Competition|Ranking|
+|--|------------|-------|
+|Sherlock|Super DCA Liquidity Network|[🥈](https://audits.sherlock.xyz/contests/1171?filter=results)|
+|Cantina|Morpho Vaults V2|[🥉](https://cantina.xyz/code/523e1540-f8c3-45ae-9c5d-b6d35d3a326c/overview/leaderboard)|
+|Sherlock|Crestal Network|[🥉](https://audits.sherlock.xyz/contests/755/leaderboard)|
+|Code4rena|Next Generation|[5](https://code4rena.com/audits/2025-01-next-generation)|
+|Code4rena|bveCVX by BadgerDAO|[7](https://code4rena.com/audits/2021-09-bvecvx-by-badgerdao-contest)|
+|Sherlock|Lend|[10](https://audits.sherlock.xyz/contests/908)|
+|Sherlock|Symbiotic Relay|[10](https://audits.sherlock.xyz/contests/967/leaderboard)|
+|Code4rena|Sherlock|[10](https://code4rena.com/audits/2021-07-sherlock-contest)|
+|Code4rena|Gravity Bridge|[11](https://code4rena.com/audits/2021-08-gravity-bridge-contest)|
+|Cantina|Alchemix V3|[12](https://cantina.xyz/competitions/e68909e6-3491-4a94-a707-ecf0c89cf72a/leaderboard)|
 
 ### Private Audits
 
