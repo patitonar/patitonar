@@ -1,5 +1,5 @@
 # Biography
-- 🕵️‍♂️ 1 year Independent Security Researcher
+- 🕵️‍♂️ Independent Security Researcher
 - 👷‍♂️ 5+ years as a Solidity developer
 - 👨‍💻 10+ years as a developer
 - 📖 Software Engineer
@@ -34,7 +34,9 @@ Profiles
 |Protocol|Date|Platform|Report|
 |--|------------|----|-------|
 |Best in slot|November 2025|<img src="https://github.com/user-attachments/assets/b2f1283e-b952-4b40-ac7e-5b717c406fea" width=15 height=15> Hashlock|[📄](https://hashlock.com/wp-content/uploads/2025/09/Best-in-Slot-2nd-Smart-Contract-Audit-Report-Final-Report-v1.pdf)|
-|Onramp|November 2025|<img src="https://github.com/user-attachments/assets/b2f1283e-b952-4b40-ac7e-5b717c406fea" width=15 height=15> Hashlock|Private|
+|Hann Finance|November 2025|<img src="https://github.com/user-attachments/assets/b2f1283e-b952-4b40-ac7e-5b717c406fea" width=15 height=15> Hashlock|[📄](https://hashlock.com/wp-content/uploads/2025/12/Onramp-LST-core-Smart-Contract-Audit-Report-Final-Report-v3-1.pdf)|
+|Hann Finance|November 2025|<img src="https://github.com/user-attachments/assets/b2f1283e-b952-4b40-ac7e-5b717c406fea" width=15 height=15> Hashlock|[📄](https://hashlock.com/wp-content/uploads/2025/12/Onramp-Lending-Core-Smart-Contract-Audit-Report-Final-Report-v2-2.pdf)|
+|Hann Finance|November 2025|<img src="https://github.com/user-attachments/assets/b2f1283e-b952-4b40-ac7e-5b717c406fea" width=15 height=15> Hashlock|[📄](https://hashlock.com/wp-content/uploads/2025/12/Onramp-StableSwap-Smart-Contract-Audit-Report-Final-Report-v2.pdf)|
 |LSA Bridge|October 2025|<img src="https://github.com/user-attachments/assets/b2f1283e-b952-4b40-ac7e-5b717c406fea" width=15 height=15> Hashlock|[📄](https://hashlock.com/wp-content/uploads/2025/10/LSA-Bridge-Smart-Contract-Audit-Report-Final-Report-v3.pdf)|
 |Spellborne|October 2025|<img src="https://github.com/user-attachments/assets/f93e487b-a9e7-4249-8256-e2e5b739c8e9" width=15 height=15> Shieldify|[📄](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Spellborne-Security-Review.pdf)|
 |Pruv Finance|October 2025|<img src="https://github.com/user-attachments/assets/b2f1283e-b952-4b40-ac7e-5b717c406fea" width=15 height=15> Hashlock|[📄](https://hashlock.com/wp-content/uploads/2025/10/Pruv-Finance-2nd-Smart-Contract-Audit-Report-Final-Report-v2.pdf)|
