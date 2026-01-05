@@ -7,11 +7,16 @@
 
 ## Security Researcher
 
-Profiles
+Profile
 - [Sherlock](https://audits.sherlock.xyz/watson/patitonar)
-- [Cantina](https://cantina.xyz/u/patitonar)
-- [Code4rena](https://code4rena.com/@patitonar)
-- [CodeHawks](https://profiles.cyfrin.io/u/patitonar)
+
+Highlighted Findings:
+- Sherlock's Vulnerability Spotlight
+  - [unfair rewards distribution](https://x.com/sherlockdefi/status/2004537760942903672) 
+  - [Cross-Chain Liquidation Lockout](https://x.com/sherlockdefi/status/1959946404228722988)
+  - [Unvalidated Cross-Chain token swap](https://x.com/sherlockdefi/status/1957408189470921133)
+- 0xSimao Contest Academy
+  - [unfair rewards distribution](https://x.com/patitonar/status/1996281004659736660)
 
 ### Top 10 Public Competitions
 
@@ -31,8 +36,9 @@ Profiles
 ### Private Audits
 
 
-|Protocol|Date|Platform|Report|
+|Protocol|Date|Client|Report|
 |--|------------|----|-------|
+|KlimaDAO V2|December 2025|<img src="https://github.com/user-attachments/assets/b2f1283e-b952-4b40-ac7e-5b717c406fea" width=15 height=15> Hashlock|Private|
 |Best in slot|November 2025|<img src="https://github.com/user-attachments/assets/b2f1283e-b952-4b40-ac7e-5b717c406fea" width=15 height=15> Hashlock|[📄](https://hashlock.com/wp-content/uploads/2025/09/Best-in-Slot-2nd-Smart-Contract-Audit-Report-Final-Report-v1.pdf)|
 |Hann Finance|November 2025|<img src="https://github.com/user-attachments/assets/b2f1283e-b952-4b40-ac7e-5b717c406fea" width=15 height=15> Hashlock|[📄](https://hashlock.com/wp-content/uploads/2025/12/Onramp-LST-core-Smart-Contract-Audit-Report-Final-Report-v3-1.pdf)|
 |Hann Finance|November 2025|<img src="https://github.com/user-attachments/assets/b2f1283e-b952-4b40-ac7e-5b717c406fea" width=15 height=15> Hashlock|[📄](https://hashlock.com/wp-content/uploads/2025/12/Onramp-Lending-Core-Smart-Contract-Audit-Report-Final-Report-v2-2.pdf)|
@@ -46,8 +52,6 @@ Profiles
 |Best in slot|August 2025|<img src="https://github.com/user-attachments/assets/b2f1283e-b952-4b40-ac7e-5b717c406fea" width=15 height=15> Hashlock|[📄](https://hashlock.com/wp-content/uploads/2025/09/Best-in-slot-Smart-Contract-Audit-Report-Final-Report-v3.pdf)|
 |LibraChain|August 2025|<img src="https://github.com/user-attachments/assets/b2f1283e-b952-4b40-ac7e-5b717c406fea" width=15 height=15> Hashlock|Private|
 |Wormhole NTT|December 2024|<img src="https://github.com/user-attachments/assets/09bdb386-3849-4895-af9a-75c8c5b5908a" width=15 height=15> BootNode|Private|
-|Metastreet|March 2022|<img src="https://github.com/user-attachments/assets/09bdb386-3849-4895-af9a-75c8c5b5908a" width=15 height=15> BootNode|Private|
-|Aelin|October 2021|<img src="https://github.com/user-attachments/assets/09bdb386-3849-4895-af9a-75c8c5b5908a" width=15 height=15> BootNode|Private|
 
 
 ## Solidity Developer
