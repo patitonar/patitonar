@@ -38,7 +38,7 @@ Highlighted Findings:
 
 |Protocol|Date|Client|Report|
 |--|------------|----|-------|
-|Shred|February 2026|<img src="https://github.com/user-attachments/assets/ff8104b1-6dc6-4ae1-96b4-3407cd3a5f58" width=15 height=15> Pashov Audit Group|Private|
+|Shred|February 2026|<img src="https://github.com/user-attachments/assets/ff8104b1-6dc6-4ae1-96b4-3407cd3a5f58" width=15 height=15> Pashov Audit Group|[📄](https://github.com/pashov/audits/blob/master/team/pdf/Shred-security-review_2026-01-31.pdf)|
 |Umbrae|February 2026|<img src="https://github.com/user-attachments/assets/b2f1283e-b952-4b40-ac7e-5b717c406fea" width=15 height=15> Hashlock|Private|
 |Nexus|February 2026|<img src="https://github.com/user-attachments/assets/b2f1283e-b952-4b40-ac7e-5b717c406fea" width=15 height=15> Hashlock|Private|
 |Umbrae|January 2026|<img src="https://github.com/user-attachments/assets/b2f1283e-b952-4b40-ac7e-5b717c406fea" width=15 height=15> Hashlock|Private|
