@@ -38,12 +38,17 @@ Highlighted Findings:
 
 |Protocol|Date|Client|Report|
 |--|------------|----|-------|
+|Factor|March 2026|<img src="https://github.com/user-attachments/assets/b2f1283e-b952-4b40-ac7e-5b717c406fea" width=15 height=15> Hashlock|Private|
+|OpenGradient|February 2026|<img src="https://github.com/user-attachments/assets/b2f1283e-b952-4b40-ac7e-5b717c406fea" width=15 height=15> Hashlock|Private|
+|RAAC|February 2026|<img src="https://github.com/user-attachments/assets/ff8104b1-6dc6-4ae1-96b4-3407cd3a5f58" width=15 height=15> Pashov Audit Group|Private|
+|OpenGradient|February 2026|<img src="https://github.com/user-attachments/assets/b2f1283e-b952-4b40-ac7e-5b717c406fea" width=15 height=15> Hashlock|Private|
+|x1 ecochain|February 2026|<img src="https://github.com/user-attachments/assets/b2f1283e-b952-4b40-ac7e-5b717c406fea" width=15 height=15> Hashlock|Private|
 |Shred|February 2026|<img src="https://github.com/user-attachments/assets/ff8104b1-6dc6-4ae1-96b4-3407cd3a5f58" width=15 height=15> Pashov Audit Group|[📄](https://github.com/pashov/audits/blob/master/team/pdf/Shred-security-review_2026-01-31.pdf)|
 |Umbrae|February 2026|<img src="https://github.com/user-attachments/assets/b2f1283e-b952-4b40-ac7e-5b717c406fea" width=15 height=15> Hashlock|Private|
-|Nexus|February 2026|<img src="https://github.com/user-attachments/assets/b2f1283e-b952-4b40-ac7e-5b717c406fea" width=15 height=15> Hashlock|Private|
-|Umbrae|January 2026|<img src="https://github.com/user-attachments/assets/b2f1283e-b952-4b40-ac7e-5b717c406fea" width=15 height=15> Hashlock|Private|
+|Nexus|February 2026|<img src="https://github.com/user-attachments/assets/b2f1283e-b952-4b40-ac7e-5b717c406fea" width=15 height=15> Hashlock|[📄](https://hashlock.com/wp-content/uploads/2026/02/Nexus-Smart-Contract-Audit-Report-Final-Report-v1.pdf)|
+|Umbrae|January 2026|<img src="https://github.com/user-attachments/assets/b2f1283e-b952-4b40-ac7e-5b717c406fea" width=15 height=15> Hashlock|[📄](https://hashlock.com/wp-content/uploads/2025/09/Umbrae-Smart-Contract-Audit-Report-Final-Report-v2.pdf)|
 |Pruv Finance|January 2026|<img src="https://github.com/user-attachments/assets/b2f1283e-b952-4b40-ac7e-5b717c406fea" width=15 height=15> Hashlock|Private|
-|KlimaDAO V2|December 2025|<img src="https://github.com/user-attachments/assets/b2f1283e-b952-4b40-ac7e-5b717c406fea" width=15 height=15> Hashlock|Private|
+|KlimaDAO V2|December 2025|<img src="https://github.com/user-attachments/assets/b2f1283e-b952-4b40-ac7e-5b717c406fea" width=15 height=15> Hashlock|[📄](https://hashlock.com/wp-content/uploads/2025/04/Kilma-Protocol-Main-Smart-Contract-Audit-Report-Final-Report-v3.pdf)|
 |Best in slot|November 2025|<img src="https://github.com/user-attachments/assets/b2f1283e-b952-4b40-ac7e-5b717c406fea" width=15 height=15> Hashlock|[📄](https://hashlock.com/wp-content/uploads/2025/09/Best-in-Slot-2nd-Smart-Contract-Audit-Report-Final-Report-v1.pdf)|
 |Hann Finance|November 2025|<img src="https://github.com/user-attachments/assets/b2f1283e-b952-4b40-ac7e-5b717c406fea" width=15 height=15> Hashlock|[📄](https://hashlock.com/wp-content/uploads/2025/12/Onramp-LST-core-Smart-Contract-Audit-Report-Final-Report-v3-1.pdf)|
 |Hann Finance|November 2025|<img src="https://github.com/user-attachments/assets/b2f1283e-b952-4b40-ac7e-5b717c406fea" width=15 height=15> Hashlock|[📄](https://hashlock.com/wp-content/uploads/2025/12/Onramp-Lending-Core-Smart-Contract-Audit-Report-Final-Report-v2-2.pdf)|
