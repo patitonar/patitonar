@@ -38,6 +38,9 @@ Highlighted Findings:
 
 |Protocol|Date|Client|Report|
 |--|------------|----|-------|
+|Centrifuge Workflows|May 2026|<img src="https://github.com/user-attachments/assets/4a0045c3-e6ca-4a10-9534-f0ea322e27eb" width=15 height=15> BurraSec|Private|
+|Kirapay|May 2026|<img src="https://github.com/user-attachments/assets/b2f1283e-b952-4b40-ac7e-5b717c406fea" width=15 height=15> Hashlock|Private|
+|TCP|May 2026|<img src="https://github.com/user-attachments/assets/b2f1283e-b952-4b40-ac7e-5b717c406fea" width=15 height=15> Hashlock|Private|
 |Cache Wallet|May 2026|<img src="https://github.com/user-attachments/assets/b2f1283e-b952-4b40-ac7e-5b717c406fea" width=15 height=15> Hashlock|Private|
 |Humiloop|May 2026|<img src="https://github.com/user-attachments/assets/b2f1283e-b952-4b40-ac7e-5b717c406fea" width=15 height=15> Hashlock|Private|
 |Predmart|April 2026|<img src="https://github.com/user-attachments/assets/b2f1283e-b952-4b40-ac7e-5b717c406fea" width=15 height=15> Hashlock|Private|
