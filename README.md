@@ -1,5 +1,5 @@
 # Biography
-- 🕵️‍♂️ Independent Security Researcher
+- 🕵️‍♂️ 1.5 years Security Researcher
 - 👷‍♂️ 5+ years as a Solidity developer
 - 👨‍💻 10+ years as a developer
 - 📖 Software Engineer
@@ -34,7 +34,6 @@ Highlighted Findings:
 |Cantina|Alchemix V3|[12](https://cantina.xyz/competitions/e68909e6-3491-4a94-a707-ecf0c89cf72a/leaderboard)|
 
 ### Private Audits
-
 
 |Protocol|Date|Client|Report|
 |--|------------|----|-------|
